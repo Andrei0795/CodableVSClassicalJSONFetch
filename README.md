@@ -1,6 +1,6 @@
 # CodableVSClassicalJSONFetch
 
-This is an iOS Swift project that showcases the difference between fetching data off the internet and interpreting it in two different ways: the classic JSONSerialization way and the Codable way.
+This is an iOS Swift project that showcases the difference between fetching data off the internet and interpreting it in two different ways: the classic JSONSerialization way and the Codable way.  
 Demo Images:
 
 <img width="200" alt="Screenshot 2024-05-28 at 13 11 43" src="https://github.com/Andrei0795/CodableVSClassicalJSONFetch/assets/10764238/3418a7ff-1fbe-4fc5-9104-d95f1a862186">
